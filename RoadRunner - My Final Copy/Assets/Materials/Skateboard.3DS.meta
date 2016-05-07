@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 0eb22e99e852be04e9f30f1590521ffd
+timeCreated: 1427222711
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box010
+    100004: Box02
+    100006: Box03
+    100008: ChamferCy0
+    100010: ChamferCy1
+    100012: ChamferCy2
+    100014: ChamferCyl
+    100016: Cone01
+    100018: Cone02
+    100020: Cylinder01
+    100022: Cylinder02
+    100024: Cylinder03
+    100026: Cylinder04
+    100028: Deck
+    100030: //RootNode
+    100032: Trucks
+    100034: Trucks01
+    100036: Wheel
+    400000: Box01
+    400002: Box010
+    400004: Box02
+    400006: Box03
+    400008: ChamferCy0
+    400010: ChamferCy1
+    400012: ChamferCy2
+    400014: ChamferCyl
+    400016: Cone01
+    400018: Cone02
+    400020: Cylinder01
+    400022: Cylinder02
+    400024: Cylinder03
+    400026: Cylinder04
+    400028: Deck
+    400030: //RootNode
+    400032: Trucks
+    400034: Trucks01
+    400036: Wheel
+    2300000: Box01
+    2300002: Box010
+    2300004: Box02
+    2300006: Box03
+    2300008: ChamferCy0
+    2300010: ChamferCy1
+    2300012: ChamferCy2
+    2300014: ChamferCyl
+    2300016: Cone01
+    2300018: Cone02
+    2300020: Cylinder01
+    2300022: Cylinder02
+    2300024: Cylinder03
+    2300026: Cylinder04
+    2300028: Wheel
+    3300000: Box01
+    3300002: Box010
+    3300004: Box02
+    3300006: Box03
+    3300008: ChamferCy0
+    3300010: ChamferCy1
+    3300012: ChamferCy2
+    3300014: ChamferCyl
+    3300016: Cone01
+    3300018: Cone02
+    3300020: Cylinder01
+    3300022: Cylinder02
+    3300024: Cylinder03
+    3300026: Cylinder04
+    3300028: Wheel
+    4300000: Wheel
+    4300002: Cylinder02
+    4300004: Box01
+    4300006: Cone01
+    4300008: ChamferCyl
+    4300010: ChamferCy0
+    4300012: Cylinder01
+    4300014: Box02
+    4300016: Box010
+    4300018: Cone02
+    4300020: Cylinder03
+    4300022: Box03
+    4300024: ChamferCy1
+    4300026: ChamferCy2
+    4300028: Cylinder04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00499999989
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

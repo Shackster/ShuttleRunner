@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameControlScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameControlScript.cs" Line="213" Column="6" />
+      <File FileName="Assets\Scripts\PowerupScript.cs" Line="11" Column="59" />
+      <File FileName="Assets\Scripts\GroundControl.cs" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\MoveSkateboard.cs" Line="7" Column="18" />
+      <File FileName="Assets\Scripts\ObstacleScript.cs" Line="12" Column="25" />
+      <File FileName="Assets\Scripts\SBscript.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\SpawnScript.cs" Line="72" Column="23" />
+      <File FileName="Assets\Scripts\SpawnSkateboard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\stopscript.cs" Line="13" Column="48" />
+      <File FileName="Assets\Scripts\TriggerZoneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="15" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
